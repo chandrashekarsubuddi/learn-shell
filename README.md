@@ -4,5 +4,5 @@ in this repo we will keep the shell scripting files.
 
 Shell Topics:
 ------------
-1.printing
-2.
+1. Printing
+2. 
