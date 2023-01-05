@@ -9,3 +9,6 @@ echo class name - ${class}
 #DATE=2023-01-3
 DATE=$(date +%F)
 echo Hey, Today date is $DATE
+
+ADD=$((2+3))
+echo ADD - $ADD
