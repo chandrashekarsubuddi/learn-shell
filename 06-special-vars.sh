@@ -16,4 +16,4 @@ echo "@ - $@"
 echo "# - $#"
 }
 
-example
+example xyz 20
