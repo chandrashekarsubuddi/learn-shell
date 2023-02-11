@@ -1,6 +1,6 @@
 read -p 'Enter course name: ' course_name
 
-case $${course_name} in
+case ${course_name} in
 AWS)
   echo "Welcome to AWS Training"
   ;;
